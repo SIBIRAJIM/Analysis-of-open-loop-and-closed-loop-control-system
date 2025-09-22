@@ -41,7 +41,13 @@ step(sys,t)
 	Analyse the result.
 ## Output:
 ### Open Loop System
+
+<img width="695" height="521" alt="image" src="https://github.com/user-attachments/assets/fafc715a-04ef-44ba-9fc0-2847dbdd791f" />
+
 ### Closed Loop System
+
+<img width="693" height="521" alt="image" src="https://github.com/user-attachments/assets/2c8b6d7b-6af1-464a-b7a9-593fec3f8800" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
