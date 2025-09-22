@@ -55,7 +55,7 @@ Steady State Error = <br>
 Settling Time = 
 ### Closed loop System
 Steady State Error = <br>
-Settling Time = 
+Settling Time = 1.3S
 
 
 
