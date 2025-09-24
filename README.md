@@ -18,7 +18,8 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 ## Program: 
 ### Open loop System
 
-```num=[1]
+```
+num=[1]
 den=[1 10 20]
 sys=tf(num,den)
 step(sys)
@@ -26,7 +27,8 @@ step(sys)
 
 ### Closed loop System
 
-```num=[300]
+```
+num=[300]
 den=[1 10 320]
 sys=tf(num,den)
 t=0:0.01:2;
